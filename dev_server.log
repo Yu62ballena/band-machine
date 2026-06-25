@@ -1,0 +1,15 @@
+
+> reverse-backing-machine@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.3
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 2s
+ ○ Compiling / ...
+ ✓ Compiled / in 11.6s (2426 modules)
+ GET / 200 in 12604ms
+ ✓ Compiled in 1247ms (1188 modules)
+ ✓ Compiled in 471ms (1174 modules)
+ ✓ Compiled in 229ms (1174 modules)
